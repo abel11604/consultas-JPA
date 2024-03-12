@@ -1,0 +1,8 @@
+DAO\ActivistaDAO.class
+entidades\Problemas.class
+com\mycompany\consultasjpa\ConsultasJpa.class
+entidades\Activista.class
+entidades\Cliente.class
+DAO\ProblemaDAO.class
+DAO\ClienteDAO.class
+entidades\Direcciones.class
